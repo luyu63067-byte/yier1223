@@ -1,5 +1,5 @@
 # Python Demo：CSV 数据读取练习
-
+这是我学习GitHub的第一个练习项目。h'l
 这个个人练习项目用于学习：编写 Python、使用 Git 保存版本，以及将代码备份到 GitHub。
 
 ## 运行
